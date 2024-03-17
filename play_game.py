@@ -1,5 +1,5 @@
 '''Importing actual game running functions'''
-from noughtsandcrosses_2408869 import \
+from noughtsandcrosses import \
     welcome, menu, play_game, save_score, load_scores, display_leaderboard
 
 def main():
